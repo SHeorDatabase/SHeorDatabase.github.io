@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunksonatrach_eor_database"]=self["webpackChunksonatrach_eor_database"]||[]).push([[443],{381:function(a,n,t){t.r(n),t.d(n,{default:function(){return b}});var e=t(252);const r={class:"about"},s=(0,e._)("h1",null,"This is an about page",-1),u=[s];function c(a,n){return(0,e.wg)(),(0,e.iD)("div",r,u)}var o=t(744);const i={},h=(0,o.Z)(i,[["render",c]]);var b=h}}]);
+//# sourceMappingURL=about.3dfda870.js.map
